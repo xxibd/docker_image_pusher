@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-zhaoxiaomeng/nginx_with_gmsslv3
+openjdk
+openjdk:8-jdk-alpine
