@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-openjdk
-openjdk:8-jdk-alpine
+python:3.11-alpine
