@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 python:3.11-alpine
+ubuntu:22.04
